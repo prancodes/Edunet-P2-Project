@@ -7,5 +7,4 @@ A digital wallet payment clone developed as part of the Edunet Foundation's P2 c
 - User registration and authentication
 - Secure payment processing
 - Transaction history
-"# Edunet-P2-Project" 
-"# Edunet-P2-Project" 
+
